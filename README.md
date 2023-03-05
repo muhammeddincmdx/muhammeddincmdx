@@ -1,6 +1,6 @@
 
 ## Hi 👋, I'm Muhammed
-### I am meachatronic engineering student and also ı interested some different areas .They are data science, ai, biological articles and any techonogical developments. 
+### I am mechatronic engineering student and also i am interested in some different areas. They are data science, ai, biological articles and any techonogical developments. 
 
 
 
@@ -44,7 +44,6 @@
 
 
 </details>
-
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=muhammeddincmdx.muhammeddincmdx)
