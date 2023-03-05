@@ -29,7 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=muhammeddincmdx.muhammeddincmdx)
 
 <details>
  <summary> :bulb:  Github Statistics  </summary> 
@@ -46,4 +46,4 @@
 </details>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=muhammeddincmdx.muhammeddincmdx)
+
