@@ -32,8 +32,8 @@
 
 
 <details>
-** <summary> :bulb:  Github Statistics  </summary>** 
-</details>
+ <summary> :bulb:  Github Statistics  </summary> 
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhammeddincmdx&show_icons=true&theme=gotham" alt="muhammeddincmdx" />
 
@@ -41,5 +41,10 @@
 
 [twitter]: https://twitter.com/muhammeddincmdx
 [linkedin]: https://www.linkedin.com/in/muhammeddinc/
+
+
+</details>
+
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=muhammeddincmdx.muhammeddincmdx)
