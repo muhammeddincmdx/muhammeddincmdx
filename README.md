@@ -2,7 +2,7 @@
 ## Hi 👋, I'm Muhammed
 ### I am mechatronic engineering student and also i am interested in some different areas. They are data science, ai, biological articles and any techonogical developments. 
 
-
+## Currently, I try to make chatbot using my own data and ai models which is bert and gpt.
 
 ## &#8226; Mechatronic Engineering Student 
 ## &#8226; Trying To Be A Data Scientist
@@ -22,14 +22,14 @@
 <br/>
 
 
-**Tech I use**
+**Tech I Use**
  <br/>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=muhammeddincmdx.visitor-badg)
+
 
 <details>
  <summary> :bulb:  Github Statistics  </summary> 
