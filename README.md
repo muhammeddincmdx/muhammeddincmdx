@@ -2,10 +2,10 @@
 ## Hi 👋, I'm Muhammed
 ### I am mechatronic engineering student and also i am interested in some different areas. They are data science, ai, biological articles and any techonogical developments. 
 
-#### Currently, I try to make chatbot a smart one
+
 
 ## &#8226; Mechatronic Engineering Student 
-## &#8226; Trying To Be A Data Scientist
+
 
 ## &#8226; Biology lover 
 
