@@ -1,7 +1,7 @@
 
 ## Hi 👋, I'm Muhammed
-### I am mechatronic engineering student and also i am interested in some different areas. They are data science, ai, biological articles and any techonogical developments. 
-
+### I am mechatronic engineering student and also i am interested in some different areas. They are data science, ai, biological articles and any technogical developments. 
+### Currently learning nlp
 
 
 ## &#8226; Mechatronic Engineering Student 
