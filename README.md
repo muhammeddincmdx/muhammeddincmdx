@@ -1,1 +1,1 @@
-This is a readme.md file
+Ben kodlamadan çok anlamam.
