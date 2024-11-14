@@ -6,7 +6,7 @@ Bildiğim Diller ve seviyeleri
 ---
 
 
-
+### C++ --------> %0.1
 ### Java ------->%5
 ### Kotlin ----->%17
 ### Python ----->%36
